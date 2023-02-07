@@ -1,7 +1,11 @@
 # Hi there 😊
 
 I'm Diogo Santos, a Computer Engineering student.
+
+
 I am passionate about technology and love to learn new things. Currently, I have skills in C, Java, SQL, Python, and PHP.
+
+
 I have also worked a bit with web page languages such as CSS, HTML, and JavaScript.
 
 ## Concact
