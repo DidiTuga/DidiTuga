@@ -8,7 +8,7 @@ I am passionate about technology and love to learn new things. Currently, I have
 
 I have also worked a bit with web page languages such as CSS, HTML, and JavaScript.
 
-## Concact
+## Contact
 Feel free to reach out to me at:
 <!--
 <a href="https://www.linkedin.com/in/luiscsantos92" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
