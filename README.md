@@ -12,7 +12,6 @@ I have also worked a bit with web page languages such as CSS, HTML, and JavaScri
 Feel free to reach out to me at:
 
   <a href="https://www.linkedin.com/in/diogo-santos-089bb8269/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
   <a href = "mailto:diogo2463@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/DidiTugaHD" target="_blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"></a>
 
